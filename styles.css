@@ -1,0 +1,29 @@
+/* CSS HEX */
+h1,h2,p {font-family: 'Times New Roman', Times, serif;
+       color: #ffff;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: large;
+       text-align: justify;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-style: inherit;
+}
+
+body{
+    padding: auto;
+    display: inline-block;
+    background-color: rgb(155, 240, 233);
+
+
+}
+
+footer {
+    margin: 15px;
+    border-top: 4px solid #52d7f8 ;
+    text-align: centre;
+    background-color: #3f3333;
+}
+
